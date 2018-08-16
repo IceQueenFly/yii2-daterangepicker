@@ -7,7 +7,6 @@
         "widget",
         "date-range"
     ],
-    "version": "0.0.1",
     "homepage": "https://github.com/IceQueenFly/yii2-daterangepicker",
     "type": "yii2-extension",
     "license": "MIT",
@@ -24,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "icequeen\\yii\\widgets": ""
+            "icequeen\\yii\\widgets\\": ""
         }
     }
 }
