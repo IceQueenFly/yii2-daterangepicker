@@ -1,0 +1,29 @@
+{
+    "name": "icequeen/date-range-picker",
+    "description": "An advanced Yii 2 date range picker input for based on bootstrap-daterangepicker plugin.",
+    "keywords": [
+        "yii2",
+        "extension",
+        "widget",
+        "date-range",
+    ],
+    "homepage": "https://github.com/IceQueenFly/yii2-daterangepicker",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IceQueenFly",
+            "email": "790516255",
+        }
+    ],
+     "require": {
+        "php": ">=5.5.0",
+        "yiisoft/yii2": "~2.0.0",
+        "yiisoft/yii2-bootstrap": "~2.0.0",
+    }
+    "autoload": {
+        "psr-4": {
+            "icequeen\\yii\\widgets": ""
+        }
+    }
+}
