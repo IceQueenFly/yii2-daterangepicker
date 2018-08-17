@@ -1,7 +1,5 @@
-﻿<?php
-
+<?php
 namespace icequeen\yii\widgets;
-
 use yii\base\Exception;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
